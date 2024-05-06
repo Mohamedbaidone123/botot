@@ -1,4 +1,1 @@
 telebot
-faker
-time
-bs4
