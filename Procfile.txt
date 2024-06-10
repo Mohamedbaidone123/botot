@@ -1,1 +1,1 @@
-worker: python BOT INFO FOXY.py
+worker: python bot.py
