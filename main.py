@@ -13,9 +13,9 @@ from multiprocessing import Process
 import threading
 from bs4 import BeautifulSoup
 stopuser = {}
-token = '7342286369:AAFnw80VNwQ1PlTGiwc2WmZE_zwX0qZbVuE'
+token = '7167034530:AAEtTlUhPeiXRpk2xEZ818MgXHaz0PhMSXs'
 bot=telebot.TeleBot(token,parse_mode="HTML")
-admin=6371253362
+admin=2093600923
 command_usage = {}
 def reset_command_usage():
 	for user_id in command_usage:
